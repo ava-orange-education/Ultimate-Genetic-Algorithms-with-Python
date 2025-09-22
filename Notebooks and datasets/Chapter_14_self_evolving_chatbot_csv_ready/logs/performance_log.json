@@ -1,0 +1,16 @@
+[
+  {
+    "timestamp": "2025-03-23T10:00:00Z",
+    "mode": "AGENT",
+    "query": "Calculate BMI of a person with 70 kg and 1.75 meters height",
+    "response": "Tool not found",
+    "score": 0.2
+  },
+  {
+    "timestamp": "2025-03-23T10:02:00Z",
+    "mode": "AGENT",
+    "query": "What is the area of a rectangle with length 5 and width 3?",
+    "response": "Not sure how to calculate that",
+    "score": 0.3
+  }
+]
