@@ -26,30 +26,39 @@ Thus, by the end of the book, you will have developed all the skills to design, 
 
 ● Integrate GAs into generative, multi-agent, and self-evolving AI systems.
 
-![PyGAD](https://img.shields.io/badge/PyGAD-FF6F00?style=for-the-badge)
-![DEAP](https://img.shields.io/badge/DEAP-005BBB?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
-![Neo4j](https://img.shields.io/badge/Neo4j-018BFF?style=for-the-badge&logo=neo4j)
-![NetworkX](https://img.shields.io/badge/NetworkX-333333?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-1A73E8?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-8E44AD?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-00A67E?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-0099CC?style=for-the-badge)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-F39C12?style=for-the-badge)
-![Genetic Algorithms](https://img.shields.io/badge/Genetic_Algorithms-FF5A5F?style=for-the-badge)
-![Metaheuristic Optimization](https://img.shields.io/badge/Metaheuristic_Optimization-6A5ACD?style=for-the-badge)
-![Evolutionary Algorithms](https://img.shields.io/badge/Evolutionary_Algorithms-2ECC71?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C8C?style=for-the-badge&logo=chainlink)
-![Model Context Protocol](https://img.shields.io/badge/Model_Context_Protocol-6A0DAD?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface)
-![Transformers](https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM-5A5A5A?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-4B0082?style=for-the-badge)
-![Planning Agents](https://img.shields.io/badge/Planning_Agents-0047AB?style=for-the-badge)
-![Instruction Following](https://img.shields.io/badge/Instruction_Following-00897B?style=for-the-badge)
-![Workflow Orchestration](https://img.shields.io/badge/Workflow_Orchestration-2E86C1?style=for-the-badge)
-![AI Pipelines](https://img.shields.io/badge/AI_Pipelines-16A085?style=for-the-badge)
+<!-- Paste this into your README.md -->
+<div style="display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:flex-start;">
+  <a href="#"><img alt="PyGAD" src="https://img.shields.io/badge/PyGAD-FF6F00?style=for-the-badge" style="height:28px;vertical-align:middle;"></a>
+  <a href="#"><img alt="DEAP" src="https://img.shields.io/badge/DEAP-005BBB?style=for-the-badge" style="height:28px;vertical-align:middle;"></a>
+  <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch" style="height:28px;vertical-align:middle;"></a>
+  <a href="#"><img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" style="height:28px;vertical-align:middle;"></a>
+  <a href="#"><img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-018BFF?style=for-the-badge&logo=neo4j" style="height:28px;vertical-align:middle;"></a>
+  <a href="#"><img alt="NetworkX" src="https://img.shields.io/badge/NetworkX-333333?style=for-the-badge" style="height:28px;vertical-align:middle;"></a>
+
+  <a href="#"><img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-1A73E8?style=for-the-badge&logo=google" style="height:28px;vertical-align:middle;"></a>
+  <a href="#"><img alt="Deep Learning" src="https://img.shields.io/badge/Deep_Learning-8E44AD?style=for-the-badge" style="height:28px;vertical-align:middle;"></a>
+  <a href="#"><img alt="NLP" src="https://img.shields.io/badge/NLP-00A67E?style=for-the-badge" style="height:28px;vertical-align:middle;"></a>
+  <a href="#"><img alt="Computer Vision" src="https://img.shields.io/badge/Computer_Vision-0099CC?style=for-the-badge" style="height:28px;vertical-align:middle;"></a>
+  <a href="#"><img alt="Reinforcement Learning" src="https://img.shields.io/badge/Reinforcement_Learning-F39C12?style=for-the-badge" style="height:28px;vertical-align:middle;"></a>
+
+  <a href="#"><img alt="Genetic Algorithms" src="https://img.shields.io/badge/Genetic_Algorithms-FF5A5F?style=for-the-badge" style="height:28px;vertical-align:middle;"></a>
+  <a href="#"><img alt="Metaheuristic Optimization" src="https://img.shields.io/badge/Metaheuristic_Optimization-6A5ACD?style=for-the-badge" style="height:28px;vertical-align:middle;"></a>
+  <a href="#"><img alt="Evolutionary Algorithms" src="https://img.shields.io/badge/Evolutionary_Algorithms-2ECC71?style=for-the-badge" style="height:28px;vertical-align:middle;"></a>
+
+  <a href="#"><img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C8C?style=for-the-badge&logo=chainlink" style="height:28px;vertical-align:middle;"></a>
+  <a href="#"><img alt="Model Context Protocol" src="https://img.shields.io/badge/Model_Context_Protocol-6A0DAD?style=for-the-badge" style="height:28px;vertical-align:middle;"></a>
+  <a href="#"><img alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface" style="height:28px;vertical-align:middle;"></a>
+  <a href="#"><img alt="Transformers" src="https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge" style="height:28px;vertical-align:middle;"></a>
+
+  <a href="#"><img alt="LLM" src="https://img.shields.io/badge/LLM-5A5A5A?style=for-the-badge" style="height:28px;vertical-align:middle;"></a>
+  <a href="#"><img alt="Agentic AI" src="https://img.shields.io/badge/Agentic_AI-4B0082?style=for-the-badge" style="height:28px;vertical-align:middle;"></a>
+  <a href="#"><img alt="Planning Agents" src="https://img.shields.io/badge/Planning_Agents-0047AB?style=for-the-badge" style="height:28px;vertical-align:middle;"></a>
+
+  <a href="#"><img alt="Instruction Following" src="https://img.shields.io/badge/Instruction_Following-00897B?style=for-the-badge" style="height:28px;vertical-align:middle;"></a>
+  <a href="#"><img alt="Workflow Orchestration" src="https://img.shields.io/badge/Workflow_Orchestration-2E86C1?style=for-the-badge" style="height:28px;vertical-align:middle;"></a>
+  <a href="#"><img alt="AI Pipelines" src="https://img.shields.io/badge/AI_Pipelines-16A085?style=for-the-badge" style="height:28px;vertical-align:middle;"></a>
+</div>
+
 
 ## More products
 
