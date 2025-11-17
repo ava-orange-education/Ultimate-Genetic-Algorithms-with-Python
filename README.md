@@ -32,7 +32,7 @@ Thus, by the end of the book, you will have developed all the skills to design, 
 2. [Ultimate Microsoft XDR for Full Spectrum Cyber Defence](https://orangeava.com/products/ultimate-microsoft-xdr-for-full-spectrum-cyber-defence) 
 3. [Ultimate Certified Kubernetes Security Specialist (CKS) Certification Guide](https://orangeava.com/products/ultimate-certified-kubernetes-security-specialist-cks-certification-guide)
 
-4. ![PyGAD](https://img.shields.io/badge/PyGAD-FF6F00?style=for-the-badge)
+![PyGAD](https://img.shields.io/badge/PyGAD-FF6F00?style=for-the-badge)
 ![DEAP](https://img.shields.io/badge/DEAP-005BBB?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
