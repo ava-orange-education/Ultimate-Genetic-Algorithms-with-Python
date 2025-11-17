@@ -26,12 +26,6 @@ Thus, by the end of the book, you will have developed all the skills to design, 
 
 ● Integrate GAs into generative, multi-agent, and self-evolving AI systems.
 
-## More products
-
-1. [ServiceNow for IT Service Management](https://orangeava.com/products/servicenow-for-it-service-management) 
-2. [Ultimate Microsoft XDR for Full Spectrum Cyber Defence](https://orangeava.com/products/ultimate-microsoft-xdr-for-full-spectrum-cyber-defence) 
-3. [Ultimate Certified Kubernetes Security Specialist (CKS) Certification Guide](https://orangeava.com/products/ultimate-certified-kubernetes-security-specialist-cks-certification-guide)
-
 ![PyGAD](https://img.shields.io/badge/PyGAD-FF6F00?style=for-the-badge)
 ![DEAP](https://img.shields.io/badge/DEAP-005BBB?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
@@ -56,6 +50,14 @@ Thus, by the end of the book, you will have developed all the skills to design, 
 ![Instruction Following](https://img.shields.io/badge/Instruction_Following-00897B?style=for-the-badge)
 ![Workflow Orchestration](https://img.shields.io/badge/Workflow_Orchestration-2E86C1?style=for-the-badge)
 ![AI Pipelines](https://img.shields.io/badge/AI_Pipelines-16A085?style=for-the-badge)
+
+## More products
+
+1. [ServiceNow for IT Service Management](https://orangeava.com/products/servicenow-for-it-service-management) 
+2. [Ultimate Microsoft XDR for Full Spectrum Cyber Defence](https://orangeava.com/products/ultimate-microsoft-xdr-for-full-spectrum-cyber-defence) 
+3. [Ultimate Certified Kubernetes Security Specialist (CKS) Certification Guide](https://orangeava.com/products/ultimate-certified-kubernetes-security-specialist-cks-certification-guide)
+
+
 
 ## Visit Website 
 [www.orangeava.com](https://orangeava.com
